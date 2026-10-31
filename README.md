@@ -1,5 +1,9 @@
 # lem-in
 
+## Authors
+
+- [Elmehdi Rezoug (@zoro-craft)](https://github.com/zoro-craft)
+
 > Bring a whole ant colony from `##start` to `##end` in the fewest possible turns.
 
 `lem-in` reads a colony file — rooms, tunnels, start, end and the number of ants — and prints
